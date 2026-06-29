@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p153710-e1614654.adobeaemcloud.com/ui#/aem/sites.html/content/2026/27/speedydolphin08029/index"
+    url: "https://author-p153710-e1614654.adobeaemcloud.com"
     type: "markup"
     suffix: ".html"
